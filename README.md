@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
--[Project Overview](#project-overview)
+- [Project Overview](#project-overview)
 
--[Data Source](#Data-source)
+- [Data Source](#Data-source)
 
--[Tools](#tools)
+- [Tools](#tools)
 
 -[Data Cleaning](#data-cleaning)
 
